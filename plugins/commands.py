@@ -56,7 +56,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('💝 Updates ᴄʜᴀɴɴᴇʟ', url='https://t.me/PR_CineHub')
             ],[
-            InlineKeyboardButton('🔍 Movie Search ɢʀᴏᴜᴘ', url='https://t.me/+oV5evQP6bv41MTI1'),
+            InlineKeyboardButton('🔍 Movie Req ɢʀᴏᴜᴘ', url='https://t.me/+oV5evQP6bv41MTI1'),
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/pr_cinehub')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
